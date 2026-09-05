@@ -10,4 +10,3 @@ citation: '<b>Junteng Liu</b>, Shiqi Chen, Yu Cheng, Junxian He. &quot;On the Un
 ---
 
 GitHub code repository: `Universal_Truthfulness_Hyperplane`.
----
